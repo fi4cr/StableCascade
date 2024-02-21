@@ -2,7 +2,9 @@
 
 In this fork I try a few things including [artist study](https://github.com/fi4cr/StableCascade/blob/master/inference/artist_study.ipynb).
 
-
+<br> <br> <br>
+From StabilityAI.
+<br>
 
 <p align="center">
     <img src="figures/collage_1.jpg" width="800">
