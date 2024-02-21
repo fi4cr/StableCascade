@@ -1,4 +1,9 @@
 # Stable Cascade
+
+In this fork I try a few things including [artist study](https://github.com/fi4cr/StableCascade/blob/master/inference/artist_study.ipynb).
+
+
+
 <p align="center">
     <img src="figures/collage_1.jpg" width="800">
 </p>
